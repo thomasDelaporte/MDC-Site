@@ -1,0 +1,23 @@
+.text{
+	text-align: center;
+	font-size: 30px;
+}
+.foot{
+	height: 600px;
+}
+.basket{
+
+}
+.contact{
+	margin-right:30%;
+}
+
+img{object-fit: cover; width: 100%}
+
+.bouton{
+	margin-left: 10px;
+}
+
+.bouton label{
+	margin-right: 15px;
+	}
